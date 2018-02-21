@@ -29,3 +29,4 @@ print("Shape:", shape, "Device:", device_name)
 print("Time taken:", datetime.now() - startTime)
 
 print("\n" * 5)
+print("Bye!")
